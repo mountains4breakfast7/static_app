@@ -356,17 +356,17 @@ DEPENDENCIES
   coffee-rails (= 4.2.1)
   faker (= 1.6.6)
   fog (= 1.38.0)
-  guard (= 2.13.0)
-  guard-minitest (= 2.4.4)
+  guard
+  guard-minitest
   jbuilder (= 2.4.1)
   jquery-rails (= 4.1.1)
   listen (= 3.0.8)
   mini_magick (= 4.5.1)
-  minitest-reporters (= 1.1.9)
+  minitest-reporters
   pg (= 0.18.4)
   puma (= 3.4.0)
   rails (= 5.0.0.1)
-  rails-controller-testing (= 0.1.1)
+  rails-controller-testing
   sass-rails (= 5.0.6)
   spring (= 1.7.2)
   spring-watcher-listen (= 2.0.0)
